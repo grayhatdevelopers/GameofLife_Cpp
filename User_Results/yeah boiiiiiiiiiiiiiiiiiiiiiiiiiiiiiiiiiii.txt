@@ -1,0 +1,83 @@
+=========     GENERATION 1     =========
+#0: Cell ( 20 , 21 ) is alive! 
+#1: Cell ( 20 , 22 ) is alive! 
+#2: Cell ( 20 , 23 ) is alive! 
+#3: Cell ( 21 , 20 ) is alive! 
+=========     GENERATION 2     =========
+#0: Cell ( 20 , 21 ) is alive! 
+#1: Cell ( 20 , 22 ) is alive! 
+#2: Cell ( 21 , 21 ) is alive! 
+#3: Cell ( 19 , 22 ) is alive! 
+#4: Cell ( 21 , 22 ) is alive! 
+=========     GENERATION 3     =========
+#0: Cell ( 21 , 22 ) is alive! 
+#1: Cell ( 20 , 21 ) is alive! 
+#2: Cell ( 21 , 21 ) is alive! 
+#3: Cell ( 19 , 21 ) is alive! 
+#4: Cell ( 20 , 23 ) is alive! 
+=========     GENERATION 4     =========
+#0: Cell ( 21 , 22 ) is alive! 
+#1: Cell ( 20 , 21 ) is alive! 
+#2: Cell ( 21 , 21 ) is alive! 
+#3: Cell ( 20 , 20 ) is alive! 
+#4: Cell ( 19 , 22 ) is alive! 
+#5: Cell ( 20 , 22 ) is alive! 
+=========     GENERATION 5     =========
+#0: Cell ( 21 , 22 ) is alive! 
+#1: Cell ( 20 , 22 ) is alive! 
+#2: Cell ( 20 , 21 ) is alive! 
+#3: Cell ( 20 , 23 ) is alive! 
+#4: Cell ( 21 , 20 ) is alive! 
+#5: Cell ( 19 , 21 ) is alive! 
+=========     GENERATION 6     =========
+#0: Cell ( 21 , 22 ) is alive! 
+#1: Cell ( 19 , 21 ) is alive! 
+#2: Cell ( 20 , 22 ) is alive! 
+#3: Cell ( 21 , 23 ) is alive! 
+#4: Cell ( 21 , 21 ) is alive! 
+#5: Cell ( 20 , 20 ) is alive! 
+#6: Cell ( 19 , 22 ) is alive! 
+=========     GENERATION 7     =========
+#0: Cell ( 21 , 22 ) is alive! 
+#1: Cell ( 19 , 21 ) is alive! 
+#2: Cell ( 19 , 22 ) is alive! 
+#3: Cell ( 21 , 23 ) is alive! 
+#4: Cell ( 21 , 21 ) is alive! 
+#5: Cell ( 20 , 20 ) is alive! 
+#6: Cell ( 22 , 22 ) is alive! 
+#7: Cell ( 20 , 23 ) is alive! 
+#8: Cell ( 20 , 21 ) is alive! 
+=========     GENERATION 8     =========
+#0: Cell ( 20 , 21 ) is alive! 
+#1: Cell ( 19 , 21 ) is alive! 
+#2: Cell ( 19 , 22 ) is alive! 
+#3: Cell ( 21 , 23 ) is alive! 
+#4: Cell ( 21 , 22 ) is alive! 
+#5: Cell ( 20 , 20 ) is alive! 
+#6: Cell ( 22 , 21 ) is alive! 
+#7: Cell ( 22 , 23 ) is alive! 
+#8: Cell ( 19 , 20 ) is alive! 
+#9: Cell ( 21 , 20 ) is alive! 
+#10: Cell ( 20 , 22 ) is alive! 
+=========     GENERATION 9     =========
+#0: Cell ( 20 , 22 ) is alive! 
+#1: Cell ( 20 , 21 ) is alive! 
+#2: Cell ( 19 , 22 ) is alive! 
+#3: Cell ( 21 , 23 ) is alive! 
+#4: Cell ( 19 , 21 ) is alive! 
+#5: Cell ( 21 , 22 ) is alive! 
+#6: Cell ( 18 , 21 ) is alive! 
+#7: Cell ( 20 , 23 ) is alive! 
+#8: Cell ( 22 , 22 ) is alive! 
+#9: Cell ( 20 , 19 ) is alive! 
+#10: Cell ( 21 , 21 ) is alive! 
+=========     GENERATION 10     =========
+#0: Cell ( 21 , 21 ) is alive! 
+#1: Cell ( 20 , 22 ) is alive! 
+#2: Cell ( 19 , 23 ) is alive! 
+#3: Cell ( 21 , 20 ) is alive! 
+#4: Cell ( 18 , 22 ) is alive! 
+#5: Cell ( 22 , 23 ) is alive! 
+#6: Cell ( 19 , 20 ) is alive! 
+#7: Cell ( 20 , 20 ) is alive! 
+#8: Cell ( 22 , 21 ) is alive! 

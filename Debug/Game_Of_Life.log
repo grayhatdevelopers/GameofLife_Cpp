@@ -1,0 +1,17 @@
+﻿  Game_Of_Life.cpp
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\fileHandler.h(118,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(22,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(59,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(68,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(79,10): warning C4129:  '_': unrecognized character escape sequence
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(196,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(209,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(234,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(278,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(279,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(282,25): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(299,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(309,35): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(313,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\care\source\repos\LAB3\Game_Of_Life\Game_Of_Life\Game_Of_Life.cpp(326,35): warning C4309:  'argument': truncation of constant value
+  Game_Of_Life.vcxproj -> C:\Users\care\source\repos\LAB3\Game_Of_Life\Debug\Game_Of_Life.exe

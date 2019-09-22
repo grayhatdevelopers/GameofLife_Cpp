@@ -1,0 +1,17 @@
+=========     GENERATION 1     =========
+#0: Cell ( 20 , 21 ) is alive! 
+#1: Cell ( 20 , 22 ) is alive! 
+#2: Cell ( 20 , 23 ) is alive! 
+#3: Cell ( 21 , 20 ) is alive! 
+=========     GENERATION 2     =========
+#0: Cell ( 20 , 21 ) is alive! 
+#1: Cell ( 20 , 22 ) is alive! 
+#2: Cell ( 21 , 20 ) is alive! 
+=========     GENERATION 3     =========
+#0: Cell ( 20 , 21 ) is alive! 
+#1: Cell ( 21 , 20 ) is alive! 
+=========     GENERATION 4     =========
+#0: Cell ( 21 , 20 ) is alive! 
+=========     GENERATION 5     =========
+=========     GENERATION 6     =========
+=========     GENERATION 7     =========
